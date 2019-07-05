@@ -1,16 +1,7 @@
 # klimatic
 
-Flutter weather application
+A Flutter weather application (aimed at iOS)
 
-## Getting Started
+## About klimatic
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+This project was created for Paulo Dichone's FLutter Course on Udemy. However it has been modified and extra functionalities have been added. The entire app was built by Arif Waqas from scratch. API used was uixAPI. Total lines of code were greater than 1000. Fonts were added from Google Fonts. All the credit for the pictures used go to the respective photographers from Unsplash. All the pictures used comply with the copyright laws, and it is made sure that the level of infringement is null.
